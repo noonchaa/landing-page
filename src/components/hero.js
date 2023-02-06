@@ -3,7 +3,7 @@ const Hero = () => {
         <header className="bg-white dark:bg-gray-900">
             <nav className="border-t-4 border-green-500">
                 <div className="container flex items-center justify-between px-6 py-3 mx-auto">
-                    <a href="/">
+                    <a href="#">
                         <h1 className="text-2xl sm:text-3xl text-green-500 font-semibold">Brand</h1>
                     </a>
 

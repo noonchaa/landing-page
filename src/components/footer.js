@@ -3,7 +3,7 @@ const Footer = () => {
         <footer className="bg-white dark:bg-gray-900">
             <div className="container px-6 py-8 mx-auto">
                 <div className="flex flex-col items-center text-center">
-                    <a href="/">
+                    <a href="#">
                         <h1 className="text-2xl sm:text-3xl text-green-500 font-semibold">Brand</h1>
                     </a>
 
